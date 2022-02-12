@@ -1,0 +1,17 @@
+.header{
+    background: #000;
+}
+.header nav{
+    padding: 10px;
+    text-align: center;
+}
+.header nav a{
+    text-decoration: none;
+    text-align: center;
+    margin-right: 30px;
+    color: #fff;
+}
+.header nav a:hover{
+    background-color:#444;
+    padding: 10px;
+}
